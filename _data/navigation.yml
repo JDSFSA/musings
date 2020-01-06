@@ -1,11 +1,11 @@
 # main links
 main:
   - title: "About"
-    url: /about/
+    url: /docs/_pages/about/
   - title: "Musings"
-    url: /musing/
+    url: /docs/_pages/musing/
   - title: "Test"
-    url: /silo/
+    url: /docs/_pages/silo/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
